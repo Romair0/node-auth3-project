@@ -4,7 +4,7 @@
 
 - Authentication.
 - Express Middleware.
-- JSON Web Tokens (JWTs).
+- JSON Web Tokens (JWTs).s
 - Hashing Passwords.
 
 ## Description
